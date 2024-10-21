@@ -1,16 +1,18 @@
-## Hi there 👋
+uhhh.. I'm 1F2L
+I make stuff and do things
+half of them work... as for the other half, lets say they're special...
 
-<!--
-**Real1F2L/Real1F2L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Alt Text](https://www.gegeha.com/api/chopper/get-img)
 
-Here are some ideas to get you started:
+I program in:
+- Python
+- Java
+- HTML
+- CSS
+- Javascript (including node.js)
+- C#
+- PHP
+- and like 2 more I haven't used in a few years
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dont expect alot here, I'm real lazy
+Also I have a [website](https://www.gegeha.com). PLEASE PLEASE PLEASE CLICK THE LINK I WORKED SO HARD
