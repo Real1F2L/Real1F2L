@@ -2,7 +2,7 @@ uhhh.. I'm 1F2L
 I make stuff and do things
 half of them work... as for the other half, lets say they're special...
 
-[Alt Text](https://www.gegeha.com/api/chopper/get-img)
+![Random Chopper img](https://www.gegeha.com/api/chopper/get-img)
 
 I program in:
 - Python
