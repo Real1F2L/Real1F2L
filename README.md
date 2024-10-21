@@ -15,6 +15,5 @@ I program in:
 - and like 2 more I haven't used in a few years
 
 Dont expect alot here, I'm real lazy
-Also I have a [website](https://www.gegeha.com). PLEASE PLEASE PLEASE CLICK THE LINK I WORKED SO HARD
 
-![Random Chopper img](https://shareapi.gegeha.com/download?size=256&file=images/index/chopper/3.png)
+Also I have a [website](https://www.gegeha.com). PLEASE PLEASE PLEASE CLICK THE LINK I WORKED SO HARD
